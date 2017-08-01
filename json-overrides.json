@@ -23,6 +23,11 @@
             "type": "git",
             "url": "git+https://github.com/dchest/peerio-desktop-staging.git"
         },
-        "author": "Technologies Peerio Inc. <support@peerio.com>"
+        "author": "Technologies Peerio Inc. <support@peerio.com>",
+        "updater": {
+            "manifests": [
+                "github:dchest/peerio-desktop-staging"
+            ]
+        }
     }
 }
